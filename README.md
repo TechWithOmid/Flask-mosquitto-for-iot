@@ -95,6 +95,19 @@ We can see that the subscriber has successfully received the message.
 
 ![Output](./Docs/m-py-output.png)
 
+and for create publishe script we use `p.py` file.
+
+in the `p.py` file we have We have a variable named topic holding the topic name.
+
+We publish a message to the broker/server using the following line of code.
+
+`client.publish(topic=topic, payload="300 feet")`
+
+We assign our topic variable to the topic parameter and payload parameter takes in our actual message.
+
+for test to see if it work or not, first run the m.py and the run p.py.
+
+
 
 
 ## Resources
