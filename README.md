@@ -56,4 +56,5 @@ pip3 install paho-mqtt==1.3.1
 
 ## Resources
 https://medium.com/@ashiqgiga07/mqtt-with-python-part-1-a38e64308c76
+https://medium.com/@ashiqgiga07/mqtt-with-python-part-2-c202ae640f5c
 
